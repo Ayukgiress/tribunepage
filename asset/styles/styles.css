@@ -1,15 +1,14 @@
 body {
-  background-color: #eeeeee;
+  background-color: #eee;
 }
 
 .content {
   text-align: center;
   justify-content: center;
-  text-align: center;
 }
 
 .img-container {
-  background-color: #ffffff;
+  background-color: #fff;
   height: 110vh;
 }
 
