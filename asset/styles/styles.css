@@ -1,1 +1,34 @@
+body {
+  background-color: #eee;
+}
 
+.content {
+  text-align: center;
+  justify-content: center;
+}
+
+.img-container {
+  background-color: #fff;
+  height: 110vh;
+}
+
+.text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 17px;
+  margin: 10px;
+}
+
+li {
+  margin: 16px;
+}
+
+.end {
+  display: flex;
+  align-items: center;
+  text-align: start;
+  justify-content: start;
+  flex-direction: column;
+}
